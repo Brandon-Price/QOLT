@@ -20,4 +20,4 @@ Tasks:
     - First task is to find a place where I can easily scrape this information, depending on the volume of data I may need to store it into a database.
     - I need to come up with a metric on how I determine what is considered good and bad for things like a good or bad apartment. What is considered NEEDING a car if it is possible to live with no car.
     - Scrape the information and either put it in a database or store the data in a local data structure.
-    - Using the python data importing the data into some sort of dashboard.
+    - Using the python data importing the data into some sort of dashboard. Using either pyFlask or using JS for the page.
