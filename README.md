@@ -1,8 +1,8 @@
 # QOLT
 Quality of Life Tracker
 ------------------------
-Goals of the Project
-Overall is to determine where is the best place to live in the world if you were to have a job in the specific country how much money would you have after all expenses paid for.
+*Goals of the Project*
+Overall is to determine where is the best place to live in the world if you were to have a job in the specific country how much money would you have after all expenses paid for. Comparing the money that is able to be saved, the value of the their currency to goods, as well as benefits that is offered by country.
 
     - Scrape information from the internet regarding median pay wages for software engineers for various countries. (Primarily in North America and Europe.)
     - Scrape information regarding the cost of living for each of these countries. I.E food, rent (will create a proper metric on the type of apartment and how to determine a good one vs a bad one and creating a median for that), car/walkability, health insurance, taxes.
