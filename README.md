@@ -10,12 +10,14 @@ Overall is to determine where is the best place to live in the world if you were
     - Using the previous information determine how much a person will have after they pay for their needs and costs.
 
 Possible Things to Consider:
+
     - Maybe find out how one would be able to immigrate to those countries. In my mind right now it doesn't seem easy to gather that data with code and would probably require me to just look up each country and find out that information on my own.
     - How hard would it be to get a job and get a visa to work there.
     - Negatives of that country (It might be hard to find information that is actually from people that live there.)
     - Possibly historical data would require database.
 
 Tasks:
+
     - First task is to find a place where I can easily scrape this information, depending on the volume of data I may need to store it into a database.
     - I need to come up with a metric on how I determine what is considered good and bad for things like a good or bad apartment. What is considered NEEDING a car if it is possible to live with no car.
     - Scrape the information and either put it in a database or store the data in a local data structure.
